@@ -1,4 +1,5 @@
-pagelines-child-guatejug
+conference-schedule-guatejug
 ========================
 
-A simple pageline child theme for www.guate-jug.net/jday2012
+A little customization of the conference-schedule plugin including the bug f:ixes from support forum and adapted to pagelines theme
+http://wordpress.org/extend/plugins/conference-schedule/
