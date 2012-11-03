@@ -29,9 +29,9 @@
 <table class="schedule">
 	<thead>
 		<tr>
-			<th scope="col" id="session-time" class="column-session-time">Time</th>
-			<th scope="col" id="session-info" class="column-session-time">Session</th>
-			<th scope="col" id="session-with" class="column-session-with">With…</th>
+			<th scope="col" id="session-time" class="column-session-time">Hora</th>
+			<th scope="col" id="session-info" class="column-session-time">Tema</th>
+			<th scope="col" id="session-with" class="column-session-with">Con…</th>
 		</tr>
 	</thead>
 	<tfoot>
